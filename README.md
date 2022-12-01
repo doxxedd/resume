@@ -1,4 +1,3 @@
-# resume
-resume in TeX
+# resume in TeX
 
 Please see pdf!
